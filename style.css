@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: grid;
+  background-color: black;
+  place-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+#gameCanvas {
+  background-color: #19d4d4;
+}
+
+#log {
+  color: #fff;
+}
